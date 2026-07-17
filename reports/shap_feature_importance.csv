@@ -1,0 +1,156 @@
+Feature,Importance
+num__Weather_Severity,0.040662003776463486
+cat__Weather_Category_Clear,0.03422688483138777
+num__Delay_Risk_Score,0.032929569992311544
+cat__Weather_Category_Severe,0.0257232589727514
+num__Historical_Route_Delay,0.023396826512436603
+num__Port_Congestion_Index,0.020128370969352972
+num__Departure_Delay_Hours,0.017537551872129173
+cat__Congestion_Level_Low,0.016703833095081937
+cat__Congestion_Level_High,0.013150356427205178
+cat__Weather_Category_Moderate,0.007334590709893347
+num__Average_Speed_Knots,0.00600991103832862
+cat__Speed_Category_Fast,0.003878194717960067
+num__Vessel_Age,0.002922528110815024
+cat__Congestion_Level_Medium,0.002884874165230357
+num__Fuel_Price_USD,0.002592771681104943
+num__Cargo_Load_Percentage,0.0018616970613487753
+cat__Vessel_Age_Group_Old,0.0017097805476381904
+num__Scheduled_Transit_Days,0.0016073057651873372
+num__Distance_NM,0.0014472910747221734
+cat__Vessel_Age_Group_New,0.0012797763254685129
+cat__Speed_Category_Slow,0.0012117459211507995
+cat__Speed_Category_Normal,0.0011314035137941867
+cat__Carrier_Evergreen,0.0008721630354452639
+cat__Customs_Clearance_Risk_High,0.0008187430549678056
+cat__Season_Spring,0.0007767415764687603
+cat__Load_Category_High,0.0007241860840654689
+cat__Load_Category_Medium,0.0007225830747392915
+cat__Vessel_Age_Group_Mid Age,0.000707468462218923
+cat__Vessel_Type_Bulk Carrier,0.0006855483839366036
+cat__Carrier_COSCO,0.000553046101480428
+cat__Season_Summer,0.0005180396826555999
+cat__Vessel_Type_Container,0.0005085552936223681
+cat__Season_Winter,0.0005064205807502943
+cat__Load_Category_Low,0.0004900558877693915
+cat__Origin_Port_Shanghai,0.00048090704668788385
+cat__Customs_Clearance_Risk_Low,0.0004611041708304797
+cat__Customs_Clearance_Risk_Medium,0.00045464224211264303
+cat__Vessel_Type_LNG Carrier,0.00045209675872280385
+cat__Carrier_MSC,0.0004058936826916239
+cat__Destination_Port_Colombo,0.00040503250299803097
+cat__Carrier_CMA CGM,0.00040381903898296446
+cat__Origin_Port_Hamburg,0.0004006877401459466
+cat__Destination_Port_Dubai,0.0003966084307947423
+cat__Origin_Port_Dubai,0.000389027742904282
+cat__Origin_Port_Mumbai,0.0003848029147896254
+cat__Destination_Port_Antwerp,0.000383054657810591
+cat__Vessel_Type_Oil Tanker,0.00038130309050026076
+cat__Origin_Port_Busan,0.0003779926503295198
+cat__Destination_Port_Shanghai,0.0003712825373211146
+cat__Season_Autumn,0.0003596290646641073
+cat__Origin_Port_Singapore,0.0003508861198758053
+cat__Destination_Port_Los Angeles,0.00034752357900704557
+cat__Origin_Port_Colombo,0.00034473987497179147
+cat__Destination_Port_Rotterdam,0.0003281944528581294
+cat__Route_Singapore → Antwerp,0.0003257409352169257
+cat__Carrier_ONE,0.0003242973234176068
+cat__Origin_Port_Antwerp,0.00032162018020105845
+cat__Carrier_Hapag-Lloyd,0.0003120175335382195
+cat__Origin_Port_Rotterdam,0.00030599263342081194
+cat__Carrier_Yang Ming,0.00029939503871348315
+cat__Destination_Port_Mumbai,0.0002954407692437943
+cat__Destination_Port_Singapore,0.0002564041659702901
+cat__Route_Dubai → Hamburg,0.00025546978131949286
+cat__Destination_Port_Hamburg,0.00024641627073526955
+cat__Carrier_Maersk,0.0002437255340828438
+cat__Destination_Port_Busan,0.00024353681224132886
+cat__Route_Hamburg → Shanghai,0.00023066543230423626
+cat__Origin_Port_Los Angeles,0.00022629220738098379
+cat__Route_Shanghai → Mumbai,0.00019845080907415633
+cat__Route_Los Angeles → Rotterdam,0.00018260478111921852
+cat__Route_Rotterdam → Colombo,0.00017241508563753776
+cat__Route_Singapore → Dubai,0.00016714374905869614
+cat__Route_Los Angeles → Colombo,0.0001633200698790503
+cat__Route_Hamburg → Colombo,0.00016282339461493576
+cat__Route_Shanghai → Antwerp,0.00015932372067062198
+cat__Route_Antwerp → Los Angeles,0.00015566970577729388
+cat__Route_Shanghai → Dubai,0.00015300011682867822
+cat__Route_Rotterdam → Mumbai,0.00015066736976972496
+cat__Route_Shanghai → Busan,0.000149076031741954
+cat__Route_Mumbai → Rotterdam,0.00013853984004629484
+cat__Route_Singapore → Busan,0.0001381764159846212
+cat__Route_Hamburg → Rotterdam,0.00013232722882766242
+cat__Route_Busan → Hamburg,0.00012301821727584716
+cat__Route_Mumbai → Singapore,0.00012139380670737344
+cat__Route_Busan → Los Angeles,0.00011544606838652907
+cat__Route_Mumbai → Los Angeles,0.00011446185484842439
+cat__Route_Dubai → Antwerp,0.00010925726856857779
+cat__Route_Rotterdam → Los Angeles,0.00010923056504385327
+cat__Route_Colombo → Shanghai,0.00010802229289604901
+cat__Route_Dubai → Colombo,0.00010459327983889714
+cat__Route_Busan → Singapore,0.00010348234854376389
+cat__Route_Antwerp → Singapore,0.00010241958499568711
+cat__Route_Colombo → Antwerp,0.00010110159376015661
+cat__Route_Singapore → Los Angeles,9.893029084787019e-05
+cat__Route_Antwerp → Mumbai,9.663406379423714e-05
+cat__Route_Rotterdam → Dubai,9.662814936705929e-05
+cat__Route_Rotterdam → Busan,9.636987837872353e-05
+cat__Route_Mumbai → Shanghai,9.3554437816779e-05
+cat__Route_Dubai → Mumbai,9.335978821778383e-05
+cat__Route_Rotterdam → Shanghai,9.049074559075641e-05
+cat__Route_Shanghai → Colombo,8.846546246446394e-05
+cat__Route_Antwerp → Dubai,8.846286720098077e-05
+cat__Route_Colombo → Busan,8.794223388782982e-05
+cat__Route_Busan → Dubai,8.618510967834487e-05
+cat__Route_Shanghai → Hamburg,8.542144002043774e-05
+cat__Route_Mumbai → Busan,8.424110837952669e-05
+cat__Route_Colombo → Dubai,8.331669066678529e-05
+cat__Route_Mumbai → Antwerp,8.165725222891581e-05
+cat__Route_Mumbai → Dubai,7.642250432855183e-05
+cat__Route_Busan → Mumbai,7.372291760789475e-05
+cat__Route_Dubai → Rotterdam,7.148092362552964e-05
+cat__Route_Singapore → Mumbai,7.038699355083332e-05
+cat__Route_Dubai → Singapore,6.863997251866936e-05
+cat__Route_Colombo → Singapore,6.860190870703676e-05
+cat__Route_Shanghai → Rotterdam,6.699471270480487e-05
+cat__Route_Hamburg → Antwerp,6.580294271572329e-05
+cat__Route_Hamburg → Mumbai,6.365181969725852e-05
+cat__Route_Mumbai → Hamburg,6.353766347405139e-05
+cat__Route_Busan → Rotterdam,6.267620783029072e-05
+cat__Route_Antwerp → Shanghai,5.968644039261127e-05
+cat__Route_Antwerp → Colombo,5.783015805358409e-05
+cat__Route_Los Angeles → Shanghai,5.7466130481486166e-05
+cat__Route_Rotterdam → Singapore,5.454507003393771e-05
+cat__Route_Busan → Antwerp,5.42368338617143e-05
+cat__Route_Shanghai → Singapore,5.364933667523956e-05
+cat__Route_Antwerp → Rotterdam,5.3507924039980086e-05
+cat__Route_Hamburg → Singapore,5.3501309957005105e-05
+cat__Route_Colombo → Mumbai,5.1989588026279775e-05
+cat__Route_Rotterdam → Antwerp,4.9962599086440883e-05
+cat__Route_Los Angeles → Mumbai,4.79762908242081e-05
+cat__Route_Colombo → Hamburg,4.767931350715315e-05
+cat__Route_Hamburg → Los Angeles,4.638180440204274e-05
+cat__Route_Hamburg → Dubai,4.579247998638466e-05
+cat__Route_Busan → Shanghai,4.403191467729966e-05
+cat__Route_Mumbai → Colombo,4.251156902849787e-05
+cat__Route_Antwerp → Busan,4.2131365787009054e-05
+cat__Route_Shanghai → Los Angeles,3.992843027463393e-05
+cat__Route_Colombo → Los Angeles,3.641060353149118e-05
+cat__Route_Singapore → Shanghai,3.549757487104646e-05
+cat__Route_Los Angeles → Dubai,3.5338931109329707e-05
+cat__Route_Busan → Colombo,3.209226462342246e-05
+cat__Route_Los Angeles → Busan,3.070204474381567e-05
+cat__Route_Singapore → Colombo,3.0586433395065185e-05
+cat__Route_Los Angeles → Hamburg,3.042317319252177e-05
+cat__Route_Hamburg → Busan,2.855918091529289e-05
+cat__Route_Antwerp → Hamburg,2.7126048878230162e-05
+cat__Route_Rotterdam → Hamburg,2.6868180915185286e-05
+cat__Route_Singapore → Hamburg,2.4939180918861824e-05
+cat__Route_Colombo → Rotterdam,2.2208765199804773e-05
+cat__Route_Dubai → Los Angeles,2.1906996093750004e-05
+cat__Route_Los Angeles → Antwerp,2.1618219452290055e-05
+cat__Route_Los Angeles → Singapore,2.119700468304876e-05
+cat__Route_Dubai → Busan,1.9437147804626466e-05
+cat__Route_Singapore → Rotterdam,1.9094436776054906e-05
+cat__Route_Dubai → Shanghai,1.6440395317454002e-05

@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  vessel-delay-api:
+
+    build: .
+
+    container_name: vessel-delay-api
+
+    ports:
+      - "8000:8000"
+
+    restart: unless-stopped
