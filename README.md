@@ -400,13 +400,13 @@ http://127.0.0.1:8000/docs
 
 # 👨‍💻 Author
 
-**Rufiy**
+**Rufiyea**
 
 Data Scientist | Machine Learning Enthusiast
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Rufiyea27
 
-LinkedIn: https://linkedin.com/in/<your-linkedin>
+LinkedIn: https://www.linkedin.com/in/rufiyeacarassco/
 
 ---
 
